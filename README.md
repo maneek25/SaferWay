@@ -28,7 +28,7 @@ Jiawei Zhang: <br>
   LinkedIn: () <br><br>
 Database:  <br><br>
 Maneek Dhillon: <br>
-  GitHub:  Maneek Dhillon () <br>
+  GitHub:  Maneek Dhillon (https://github.com/maneek25/) <br>
   LinkedIn:  Maneek Dhillon (https://www.linkedin.com/in/maneek-dhillon/) <br><br>
 Gaston Garrido: <br>
   GitHub:  ggmonx (https://github.com/ggmonx) <br>
